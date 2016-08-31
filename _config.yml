@@ -1,0 +1,14 @@
+layout_spectrum: 0.9307692616712302
+typography_spectrum: 0.7084471704438329
+color:
+  brandStrength: 0.3401657030917704
+  lightness: 0.3551562826614827
+  saturation: 0.41771039413288236
+  rhythmicContrast: 0.3973022534046322
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: DezignHorizon
