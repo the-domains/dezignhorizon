@@ -1,4 +1,3 @@
-layout_spectrum: 0.2415160012897104
 typography_spectrum: 0.8535109099466354
 color:
   brandStrength: 0.6552063797134906
@@ -11,6 +10,8 @@ color:
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
-logo: null
+layout_spectrum: 0.2415160012897104
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c843e43-c601-4a03-8bfd-82e8fa95e248.png
 name: DezignHorizon
 title: 'Adventure, Photography, Inspiration'
