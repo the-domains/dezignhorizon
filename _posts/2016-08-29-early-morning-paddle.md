@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-29T17:54:35.976Z'
+datePublished: '2016-08-29T17:56:29.507Z'
 sourcePath: _posts/2016-08-29-early-morning-paddle.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-29T17:54:35.677Z'
+dateModified: '2016-08-29T17:56:29.207Z'
 title: Early Morning Paddle
 publisher:
   name: Dezign Horizon
@@ -19,7 +19,6 @@ _type: Blurb
 ![Stand Up Paddlers at Lanikai Beach](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bce1540a-5ad4-4cc2-b191-f49ebd4225ac.jpg)
 
 Calm waters and a beautiful sunrise greeted these stand-up paddlers at Lanikai Beach on the Windward side of Oahu.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/692939bb-9704-463f-a6b2-a985d7f05fbd.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1972df8f-62b2-4139-8255-a9d0302e8b0d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8219ed15-3cff-4eb0-9154-cac1bd4bbe74.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d59a5c48-e098-4203-a4fe-ce676944365a.jpg)
