@@ -1,16 +1,14 @@
-typography_spectrum: 0.8535109099466354
+layout_spectrum: 0.9307692616712302
+typography_spectrum: 0.7084471704438329
 color:
-  brandStrength: 0.6552063797134906
-  lightness: 0.4393121167086065
-  saturation: 0.7689422441180795
-  rhythmicContrast: 0.03977586654946208
+  brandStrength: 0.3401657030917704
+  lightness: 0.3551562826614827
+  saturation: 0.41771039413288236
+  rhythmicContrast: 0.3973022534046322
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
-layout_spectrum: 0.2415160012897104
-logo: null
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: DezignHorizon
-title: 'Adventure, Photography, Inspiration'
